@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://DipamAmin.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://DipamAmin.github.io/task-management-frontend/static/js/main.7d67a7b6.chunk.js",
+    "main.js.map": "https://DipamAmin.github.io/task-management-frontend/static/js/main.7d67a7b6.chunk.js.map",
+    "runtime~main.js": "https://DipamAmin.github.io/task-management-frontend/static/js/runtime~main.f2e4abd1.js",
+    "runtime~main.js.map": "https://DipamAmin.github.io/task-management-frontend/static/js/runtime~main.f2e4abd1.js.map",
+    "static/js/2.c4bcef73.chunk.js": "https://DipamAmin.github.io/task-management-frontend/static/js/2.c4bcef73.chunk.js",
+    "static/js/2.c4bcef73.chunk.js.map": "https://DipamAmin.github.io/task-management-frontend/static/js/2.c4bcef73.chunk.js.map",
+    "index.html": "https://DipamAmin.github.io/task-management-frontend/index.html",
+    "precache-manifest.af6d22d4068f2a84cecd9e3703708920.js": "https://DipamAmin.github.io/task-management-frontend/precache-manifest.af6d22d4068f2a84cecd9e3703708920.js",
+    "service-worker.js": "https://DipamAmin.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://DipamAmin.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+  }
+}
